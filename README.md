@@ -1,0 +1,4 @@
+- 👋 It is I, @morbeo
+- 👀 I’m interested in scripting, testing and command line shenanigans
+- 📖 After working as customer service, billing, technical support, NOC, enterprise support, technical supervisor, system administrator and more, I’m currently learning to be DevOps QA
+- 📫 morbeo@gmail.com
